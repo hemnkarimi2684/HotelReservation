@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/Business/">
+    <Project Path="HotelReservation.Business/HotelReservation.Business.csproj" Id="dad6295d-fd21-4df0-9b7f-e73d0baffcb7" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="HotelReservation.Domain/HotelReservation.Domain.csproj" Id="76141b2b-4f75-4ce4-b486-93fc16a568fe" />
+  </Folder>
+  <Folder Name="/Exceptions/">
+    <Project Path="HotelReservation.Exceptions/HotelReservation.Exceptions.csproj" Id="ed3e0c64-8c0b-4561-bf12-d182a44a2d34" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="HotelReservation.Infrustracture/HotelReservation.Infrastructure.csproj" Id="ec045ead-acf0-42b8-a2fd-f6881d691143" />
+  </Folder>
+  <Folder Name="/PathOfData/">
+    <Project Path="HotelReservation.PathOfData/HotelReservation.PathOfData.csproj" Id="7a7e6d1f-12cb-4141-b159-5d955c7e9117" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="HotelReservation.Presentation/HotelReservation.Presentation.csproj" Id="1e47477a-eec3-41f5-9699-79a37e67b1aa" />
+  </Folder>
+</Solution>
